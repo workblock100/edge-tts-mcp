@@ -70,3 +70,11 @@ inside the chat, the iframe receives the tool result via the MCP App
   via the host's devtools.
 - **Audio doesn't autoplay** — browser autoplay policy. The `<audio controls>`
   element shows a play button you can click.
+
+
+---
+
+## 💼 Hire the author
+Built by **Elijah** — I build custom MCP servers, Python automations, web scrapers, and AI chatbots. Fixed-price from $85, working sample before you pay.
+- **Upwork:** https://www.upwork.com/freelancers/~01818ac5bd67ef7935
+- **Email:** workblock100@gmail.com
